@@ -1,0 +1,148 @@
+header{
+    margin-bottom:0;
+    height:10%; 
+    width:100%;
+    background-color:#343430;
+    }
+
+h3{
+    display: inline-block;
+    height: 20px;
+    margin: 0px;
+}
+.topnav{
+    background-color: rgb(131, 224, 162);
+    margin: 0px 0px;
+    border-bottom: 3px solid rgb(245, 88, 88);
+    border-style: groove;
+    padding-bottom: 5px;
+    line-height: 0cm;
+}
+.topnav a{
+    font-size: larger;
+}
+.rightside{
+    float: right;
+    margin-top: -25px;
+    text-decoration:wavy;
+    padding-top: 8px;
+}
+
+.search {
+    margin-top: -42px;
+    width: 70%;
+    position: relative;
+    left: 30%;
+    top: -2px;
+    
+}
+.box{
+    width: 50%;
+    margin: 0;
+    padding: 8px;
+}
+.icon{
+    margin-inline-start: -35px;
+    padding: 8px;
+}
+.logo{
+    padding-top: 0%;
+    border: none;
+    padding-bottom: 0cm;
+}
+
+.navmenue{
+    background-color: rgb(147, 227, 229);
+    padding: 5px;
+    place-content: unset;
+    text-align: center;
+    font-weight: bold;
+}
+
+.home{
+    float: left;
+    margin-left: 15px;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 16px;
+}
+
+html,body{
+    margin-top: 0px;
+    height:100%;
+    min-height:100%; 
+    width:100%
+    min-width:100%;
+    }
+img{
+    width:  250px;
+    height: 240px;
+    margin: 20px;
+    object-fit: contain;
+    object-fit:fill;
+    border-radius: 2%;
+    padding: 1px 1px;
+    max-width: 270px:
+    max-height: 350px;
+    }
+
+table{
+    margin: 3% 1%;
+    position: relative;
+    left: 50px;
+}
+
+tr{
+    display:flex;
+    text-align: center;
+    text-size-adjust: 20px;
+    position: relative;
+    text-rendering: optimizeSpeed;
+}
+td{
+    text-align:start;
+    text-overflow: initial;
+    border: 2px solid rgb(3, 3, 43);
+    margin: 25px 10px;
+    border-radius: 2%;
+    height: initial;
+    line-height: 8px;
+}
+table tr article{
+    display: inline-block;
+    padding: 3px;
+    border: 3px solid yellow;
+    width: 100%;
+}
+
+footer{
+    border-top: 5px Solid red;
+    float: inline-start;
+}
+
+.dolar_span{
+    color: rgb(102, 13, 13);
+    font-size:20px;
+    text-align: left;
+}
+
+.location{
+    background: rgb(224, 224, 250);
+    position:sticky;
+}
+
+.featured{
+    display: block;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    text-transform: uppercase;
+    background: yellow;
+    line-height: 8px;
+}
+
+.date{
+    float: right;
+}
